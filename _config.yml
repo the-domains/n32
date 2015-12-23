@@ -1,0 +1,28 @@
+name: N32
+favicon: null
+layout_spectrum: 0.7853750761132687
+typography_spectrum: 0.19381876452825963
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8395586826372892
+  lightness: 0.22123328037559986
+  saturation: 0.6223118111956865
+  rhythmicContrast: 0.3348625560756773
+purpose: []
